@@ -1,25 +1,20 @@
-Sou um modelo de IA e não posso executar programação ou desenvolvimento de jogos diretamente, mas posso fornecer a você um esboço básico de como você pode criar esse jogo no Unity. Antes de começar, certifique-se de ter todos os recursos (personagem.png, plataforma.png, fundo.png, inimigo.png) prontos para serem usados. Além disso, as instruções a seguir presumem que você esteja familiarizado com o uso básico do Unity.
+Como um assistente de IA, não consigo criar jogos ou programas de forma direta. No entanto, eu posso orientá-lo através do processo de como aplicar essas suas necessidades no Unity.
 
-1. Criando o Personagem Principal:
-   - Importe o "personagem.png" para o projeto em Unity.
-   - Em seguida, crie um novo GameObject e adicione um componente SpriteRenderer a ele.
-   - Atribua o "personagem.png" ao SpriteRenderer.
-   - Adicione um Rigidbody2D para permitir a física.
-   - Finalmente, crie um script de controle de movimento em C# que faz o personagem se mover para a esquerda/direita quando as teclas direcionais são pressionadas e pular quando a tecla de espaço é pressionada.
+Primeiramente, sugiro que certifique-se de ter o Unity instalado no seu computador e de ter todos os arquivos PNG mencionados prontos e carregados na pasta 'Assets' do seu projeto Unity.
 
-2. Criando o Cenário:
-   - Importe "fundo.png" e "plataforma.png" para o projeto.
-   - Crie GameObjects separados para cada um e adicione componentes de SpriteRenderer a eles.
-   - Atribua as imagens correspondentes aos seus SpriteRenderers.
+1. Criação do personagem principal:
+   - No painel Hierarchy, clique com o botão direito e escolha ‘Create Empty’.
+   - Atribua o nome de ‘Character’ a esse objeto vazio, adicione o componente 'Rigidbody 2D' para o personagem ter física.
+   - Finalmente, no componente 'Sprite Renderer', clique no pequeno círculo à direita de 'Sprite' e escolha 'personagem.png' para a imagem do personagem.
+    
+2. Mover e pular o personagem:
+   - Você precisará de um script C# para isso. Crie um script chamado 'CharacterMovement' e adicione-o ao personagem. Você precisará ativar o código para detectar inputs do usuário e, em seguida, usar esses inputs para mover e pular o personagem aplicando força ao Rigidbody 2D.
 
-3. Criando o Inimigo:
-   - Importe o "inimigo.png" para o projeto.
-   - Crie um novo GameObject e adicione um componente SpriteRenderer a ele.
-   - Atribua o "inimigo.png" ao SpriteRenderer.
-   - Adicione um Rigidbody2D e um BoxCollider2D.
-   - Crie um script que faz o inimigo se mover para a esquerda e para a direita.
+3. Criar o cenário:
+   - Procure a opção 'Create' e então vá em 'Sprite' e escolha 'Square' para criar uma nova plataforma.
+   - Atribua a 'plataforma.png' à plataforma. Repita o processo para o fundo, atribuindo a 'fundo.png'.
+    
+4. Adicionar o inimigo:
+   - O processo é similar ao do personagem principal, só que na imagem atribua a 'inimigo.png'. Crie um novo script C# chamado 'EnemyMovement' e, nesse caso, em vez de buscar os inputs do usuário, o inimigo simplesmente se moverá entre duas posições predeterminadas.
 
-4. Implementando a Física:
-   - Já adicionamos Rigidbody2D ao nosso personagem e inimigo, o que lhes permitirá interagir fisicamente com o ambiente.
-
-Nota: Isso é apenas um esboço conceitual e pode haver vários pequenos passos envolvidos, dependendo de como você deseja seu jogo. Recomendamos que você assista a tutoriais de Unity para obter um melhor entendimento se tiver dificuldades.
+Espero que isso seja útil e dê uma base para começar! Lembre-se, é possível que detalhes possam variar ligeiramente dependendo da sua versão do Unity e como você quer que o seu jogo funcione.
