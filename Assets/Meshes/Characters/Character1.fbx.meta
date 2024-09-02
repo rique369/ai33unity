@@ -1,0 +1,3409 @@
+fileFormatVersion: 2
+guid: 083f864400bed4d4b9c91f14329920da
+timeCreated: 1457395338
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __Right_Elbow
+    100002: __Sword1
+    100004: __Sword2
+    100006: __Sword3
+    100008: __Sword4
+    100010: __Sword5
+    100012: _Head
+    100014: _Head1
+    100016: _Head2
+    100018: Cap1
+    100020: Cap2
+    100022: Cap3
+    100024: Cap4
+    100026: Cap5
+    100028: Character
+    100030: //RootNode
+    100032: Cover
+    100034: Left_Elbow
+    100036: Left_F
+    100038: Left_Foot
+    100040: Left_hand
+    100042: Left_Knee
+    100044: Left_leg
+    100046: Left_Pal
+    100048: Left_Pal1
+    100050: Left_Pal2_
+    100052: Left_Pal3
+    100054: Left_PalOsn
+    100056: Left_Wrist
+    100058: Left_Wrist2
+    100060: R_ridge1
+    100062: R_ridge2
+    100064: R_ridge3
+    100066: R_ridge4
+    100068: Right__F
+    100070: Right__Foot
+    100072: Right__Knee
+    100074: Right_hand
+    100076: Right_leg
+    100078: Right_Pal
+    100080: Right_Pal1
+    100082: Right_Pal2
+    100084: Right_Pal3
+    100086: Right_PalOsn
+    100088: Right_Wrist
+    100090: Right_Wrist2
+    100092: Skeleton
+    100094: Skin
+    100096: Magnet
+    100098: BotLeft
+    100100: BotRight
+    100102: __belt
+    100104: Beard
+    100106: Cap1_1
+    100108: Character1
+    100110: Character2
+    100112: Character3
+    100114: Jaket
+    100116: Skin_2
+    100118: Skin_3
+    100120: spectacles
+    100122: time
+    100124: belt
+    100126: __belt1
+    100128: __belt3
+    100130: belt2
+    100132: Character4
+    100134: Jaket1
+    100136: Jaket2
+    100138: Mask
+    100140: Skin_4
+    400000: __Right_Elbow
+    400002: __Sword1
+    400004: __Sword2
+    400006: __Sword3
+    400008: __Sword4
+    400010: __Sword5
+    400012: _Head
+    400014: _Head1
+    400016: _Head2
+    400018: Cap1
+    400020: Cap2
+    400022: Cap3
+    400024: Cap4
+    400026: Cap5
+    400028: Character
+    400030: //RootNode
+    400032: Cover
+    400034: Left_Elbow
+    400036: Left_F
+    400038: Left_Foot
+    400040: Left_hand
+    400042: Left_Knee
+    400044: Left_leg
+    400046: Left_Pal
+    400048: Left_Pal1
+    400050: Left_Pal2_
+    400052: Left_Pal3
+    400054: Left_PalOsn
+    400056: Left_Wrist
+    400058: Left_Wrist2
+    400060: R_ridge1
+    400062: R_ridge2
+    400064: R_ridge3
+    400066: R_ridge4
+    400068: Right__F
+    400070: Right__Foot
+    400072: Right__Knee
+    400074: Right_hand
+    400076: Right_leg
+    400078: Right_Pal
+    400080: Right_Pal1
+    400082: Right_Pal2
+    400084: Right_Pal3
+    400086: Right_PalOsn
+    400088: Right_Wrist
+    400090: Right_Wrist2
+    400092: Skeleton
+    400094: Skin
+    400096: Magnet
+    400098: BotLeft
+    400100: BotRight
+    400102: __belt
+    400104: Beard
+    400106: Cap1_1
+    400108: Character1
+    400110: Character2
+    400112: Character3
+    400114: Jaket
+    400116: Skin_2
+    400118: Skin_3
+    400120: spectacles
+    400122: time
+    400124: belt
+    400126: __belt1
+    400128: __belt3
+    400130: belt2
+    400132: Character4
+    400134: Jaket1
+    400136: Jaket2
+    400138: Mask
+    400140: Skin_4
+    2300000: __Sword1
+    2300002: __Sword2
+    2300004: __Sword3
+    2300006: __Sword4
+    2300008: __Sword5
+    2300010: Cap2
+    2300012: Cap3
+    2300014: Cap4
+    2300016: Cap5
+    2300018: Cover
+    2300020: Cap1
+    2300022: Magnet
+    2300024: BotLeft
+    2300026: BotRight
+    2300028: __belt
+    2300030: Beard
+    2300032: Cap1_1
+    2300034: Character2
+    2300036: Character3
+    2300038: Jaket
+    2300040: spectacles
+    2300042: time
+    2300044: belt
+    2300046: __belt1
+    2300048: __belt3
+    2300050: belt2
+    2300052: Jaket1
+    2300054: Jaket2
+    2300056: Mask
+    3300000: __Sword1
+    3300002: __Sword2
+    3300004: __Sword3
+    3300006: __Sword4
+    3300008: __Sword5
+    3300010: Cap2
+    3300012: Cap3
+    3300014: Cap4
+    3300016: Cap5
+    3300018: Cover
+    3300020: Cap1
+    3300022: Magnet
+    3300024: BotLeft
+    3300026: BotRight
+    3300028: __belt
+    3300030: Beard
+    3300032: Cap1_1
+    3300034: Character2
+    3300036: Character3
+    3300038: Jaket
+    3300040: spectacles
+    3300042: time
+    3300044: belt
+    3300046: __belt1
+    3300048: __belt3
+    3300050: belt2
+    3300052: Jaket1
+    3300054: Jaket2
+    3300056: Mask
+    4300000: Character
+    4300002: Cover
+    4300004: __Sword5
+    4300006: __Sword4
+    4300008: __Sword3
+    4300010: __Sword2
+    4300012: __Sword1
+    4300014: Cap5
+    4300016: Cap4
+    4300018: Cap3
+    4300020: Cap2
+    4300022: Cap1
+    4300024: Magnet
+    4300026: BotRight
+    4300028: BotLeft
+    4300030: Character3
+    4300032: Character2
+    4300034: Character1
+    4300036: __belt
+    4300038: Jaket
+    4300040: time
+    4300042: spectacles
+    4300044: Beard
+    4300046: Cap1_1
+    4300048: belt
+    4300050: Character4
+    4300052: __belt1
+    4300054: __belt3
+    4300056: belt2
+    4300058: Jaket1
+    4300060: Jaket2
+    4300062: Mask
+    7400000: Run
+    7400002: Roll
+    7400004: Jump1
+    7400006: SwipeLeft
+    7400008: SwipeRilght
+    7400010: Slide
+    7400012: Jump2
+    7400014: KoverUp
+    7400016: Fly
+    7400018: KoverLeft
+    7400020: KoverRight
+    7400022: Idle1
+    7400024: Idle2
+    7400026: Idle3
+    7400028: KatapultaStart
+    7400030: KatapultaUp
+    7400032: KatapultaFly
+    7400034: KatapultaFall
+    7400036: Die
+    7400038: Die2
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cap1
+    13700002: Character
+    13700004: Character1
+    13700006: Character2
+    13700008: Character3
+    13700010: Character4
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.1
+    animationPositionError: 0.1
+    animationScaleError: 0.1
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: C4D Animation Take
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Roll
+      takeName: C4D Animation Take
+      firstFrame: 20
+      lastFrame: 50
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump1
+      takeName: C4D Animation Take
+      firstFrame: 50
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SwipeLeft
+      takeName: C4D Animation Take
+      firstFrame: 75
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SwipeRilght
+      takeName: C4D Animation Take
+      firstFrame: 95
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump2
+      takeName: C4D Animation Take
+      firstFrame: 145
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KoverUp
+      takeName: C4D Animation Take
+      firstFrame: 195
+      lastFrame: 211
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fly
+      takeName: C4D Animation Take
+      firstFrame: 211
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KoverLeft
+      takeName: C4D Animation Take
+      firstFrame: 245
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KoverRight
+      takeName: C4D Animation Take
+      firstFrame: 260
+      lastFrame: 275
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle1
+      takeName: C4D Animation Take
+      firstFrame: 276
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle2
+      takeName: C4D Animation Take
+      firstFrame: 350
+      lastFrame: 390
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle3
+      takeName: C4D Animation Take
+      firstFrame: 390
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KatapultaStart
+      takeName: C4D Animation Take
+      firstFrame: 440
+      lastFrame: 470
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KatapultaUp
+      takeName: C4D Animation Take
+      firstFrame: 470
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KatapultaFly
+      takeName: C4D Animation Take
+      firstFrame: 490
+      lastFrame: 505
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KatapultaFall
+      takeName: C4D Animation Take
+      firstFrame: 505
+      lastFrame: 530
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: C4D Animation Take
+      firstFrame: 553
+      lastFrame: 620
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die2
+      takeName: C4D Animation Take
+      firstFrame: 530
+      lastFrame: 550
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1
+        weight: 1
+      - path: Character1/Skin_4
+        weight: 1
+      - path: Character2
+        weight: 1
+      - path: Character2/Skin_3
+        weight: 1
+      - path: Character3
+        weight: 1
+      - path: Character3/Skin_2
+        weight: 1
+      - path: Character4
+        weight: 1
+      - path: Character4/Skin
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/__belt1
+        weight: 1
+      - path: Skeleton/__belt3
+        weight: 1
+      - path: Skeleton/Cover
+        weight: 1
+      - path: Skeleton/Left_leg
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/BotLeft
+        weight: 1
+      - path: Skeleton/Left_leg/Left_Knee/Left_Foot/Left_F
+        weight: 1
+      - path: Skeleton/R_ridge1
+        weight: 1
+      - path: Skeleton/R_ridge1/belt2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/Jaket2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/_Head1/_Head2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Beard
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap1_1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Cap5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/Mask
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/_Head/spectacles
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_Pal1/Left_Pal2_/Left_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Left_Wrist2/Left_PalOsn/Left_Pal
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/Magnet
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Left_hand/Left_Elbow/Left_Wrist/time
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword4
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/__Sword5
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_Pal1/Right_Pal2/Right_Pal3
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn
+        weight: 1
+      - path: Skeleton/R_ridge1/R_ridge2/R_ridge3/R_ridge4/Right_hand/__Right_Elbow/Right_Wrist/Right_Wrist2/Right_PalOsn/Right_Pal
+        weight: 1
+      - path: Skeleton/Right_leg
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/BotRight
+        weight: 1
+      - path: Skeleton/Right_leg/Right__Knee/Right__Foot/Right__F
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

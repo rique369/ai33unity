@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 462430}
+  - 114: {fileID: 11477550}
+  - 114: {fileID: 11419210}
+  - 114: {fileID: 11488874}
+  - 114: {fileID: 11400950}
+  - 114: {fileID: 11460952}
+  - 114: {fileID: 11410796}
+  m_Layer: 0
+  m_Name: _Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &462430
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400950
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb36ea200888947a985f8b2b4f838ede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11410796
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45eb77dcc9e46234e8daf604e2353bd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameID: 108368
+  buttonBon: {fileID: 0}
+  bonusText: {fileID: 0}
+--- !u!114 &11419210
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215f14ce64d799d4386ffa2dd7b2da44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coine: {fileID: 0}
+  distance: {fileID: 0}
+  goCoin: {fileID: 0}
+  goScore: {fileID: 0}
+  goBScore: {fileID: 0}
+  lamlCount: {fileID: 0}
+  MainMenuPanel: {fileID: 0}
+  GameOverPanel: {fileID: 0}
+  powerPanel: {fileID: 0}
+  SaveLifePanel: {fileID: 0}
+  saveButton: {fileID: 0}
+--- !u!114 &11460952
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f253d4eb722a67e42a48bacea49479a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11477550
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9faa7a4bc2f634792dd3ec070362ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buildPrefs:
+  - {fileID: 460926, guid: 88fa41cff6b288943b14fe5d246e880d, type: 2}
+  - {fileID: 401996, guid: 5505ff096995a7846b79fb31966cc2bc, type: 2}
+  - {fileID: 493314, guid: ae857f207d6c39b4ea53571783cc481a, type: 2}
+  - {fileID: 470748, guid: bc20513612be1a54f9476f97a602c1b2, type: 2}
+  - {fileID: 433242, guid: fdb850a17ff672046947c54529d232b1, type: 2}
+  - {fileID: 417000, guid: e1eec51c982ea7a478c7aa2f6a219853, type: 2}
+  obstraclePrefs:
+  - {fileID: 431052, guid: 047920c5742d57d46a2575a1185e5b01, type: 2}
+  - {fileID: 477662, guid: 74d3aae659fe9bf479ead4c3f25f5983, type: 2}
+  - {fileID: 449120, guid: 3b2e14f4d79c9714e8f3b326ff968548, type: 2}
+  - {fileID: 475570, guid: 4486c3b670ce8d045b68295e662dd64c, type: 2}
+  - {fileID: 495010, guid: c4eac478f21b2b34680923b424d2ab24, type: 2}
+  - {fileID: 450436, guid: 4c2b7829d31f92d468ac23fade4ab092, type: 2}
+  - {fileID: 482140, guid: 9c3c9ad27f1247c48af00a427089311c, type: 2}
+  - {fileID: 499446, guid: 22e5cf8a1fb60554095f735c1d412a52, type: 2}
+  - {fileID: 410562, guid: c5063fcf74b0d6a4d9454f9143a1d4b5, type: 2}
+  - {fileID: 431048, guid: 6f9aaa720f1676947bda3c5b162934b6, type: 2}
+  - {fileID: 492814, guid: a81bacb2b39a5f94498b9569b31a9376, type: 2}
+  - {fileID: 483432, guid: e01da7e2587682749b18128053a2069b, type: 2}
+  floorPref: {fileID: 484374, guid: 68c2c0473c629b64d89185919d48d168, type: 2}
+  tPlayer: {fileID: 0}
+--- !u!114 &11488874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9622327ceac850a47900372ead7bf63e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  backgroundClip: {fileID: 8300000, guid: 36e9854082dd9aa4a99cc30b9a463fd9, type: 3}
+  musicClips:
+  - audioClip: {fileID: 8300000, guid: 7b963a85838051049991efddc90fbc41, type: 3}
+    soundName: Coin
+    volume: 0.95
+  - audioClip: {fileID: 8300000, guid: 15cd07bc2219ae342a4233c9afa96dbc, type: 3}
+    soundName: Hit
+    volume: 1
+  - audioClip: {fileID: 8300000, guid: ccf4cd9e8c0212e4b8c0aba2a2d67bed, type: 3}
+    soundName: Power
+    volume: 0.95
+  - audioClip: {fileID: 8300000, guid: 364230d4c07fba249b6f9c084fc5f707, type: 3}
+    soundName: Swipe
+    volume: 1
+  - audioClip: {fileID: 8300000, guid: e4b4cc3af9a56b449a87e105de02adcc, type: 3}
+    soundName: Guard
+    volume: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 101470}
+  m_IsPrefabParent: 1
